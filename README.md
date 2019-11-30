@@ -1,2 +1,0 @@
-# Strgeno
-Steganography web App
