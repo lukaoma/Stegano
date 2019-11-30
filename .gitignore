@@ -1,0 +1,4 @@
+/react-client/node_modules/
+backend/venv
+backend/.idea/inspectionProfiles/
+/backend/.idea/
